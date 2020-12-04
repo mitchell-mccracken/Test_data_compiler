@@ -1,5 +1,4 @@
 # Test_data_compiler
-See README file
 
 Background:
 There is a need for manufacturing to monitor product testing data for varying date ranges. Product testing is completed over several duplicate test systems. Each test system outputs a daily .tsv file which is stored through in different directories associated with the unique number of the test system. Daily .tsv files naming is not a standard YYYY-MM-DD format. For example 2020-01-01 would be titled as 2020-1-1.tsv.
